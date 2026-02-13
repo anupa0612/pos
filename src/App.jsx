@@ -340,7 +340,7 @@ const CoffeeShopPOS = () => {
               The Coffee House
             </h1>
             <p style={{ fontSize: '14px', color: '#b8a090', fontWeight: 300 }}>
-              Point of Sale System
+              Point of Sale System Developed By Anupa Wimalasiri
             </p>
           </div>
         </div>
